@@ -1,2 +1,3 @@
 # Ecommerce-Sales-Dashboard
-Looker Studio Project
+
+### Dashboard Link : https://lookerstudio.google.com/s/t1uGUv3UI6A
