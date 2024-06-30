@@ -31,6 +31,7 @@ This dashboard helps the ecommerce store to understand their sales better. It he
 ![Screenshot 2024-06-30 154922](https://github.com/Smitamane25/Employee-Details-Dashboard/assets/171058471/6780fef8-432a-433a-a5a9-2a284808106f)
 
 - Step 6 : Add bubble map chart to show sales in different states of US.
+  
 ![Screenshot 2024-06-30 120201](https://github.com/Smitamane25/Employee-Details-Dashboard/assets/171058471/c8481e99-4f3c-4316-a0d8-6075d94dc584)
 
 - Step 7 : Add stacked bar chart to show yearly sale and profit.
