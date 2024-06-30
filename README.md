@@ -30,6 +30,7 @@ This dashboard helps the ecommerce store to understand their sales better. It he
 ![Screenshot 2024-06-30 120053](https://github.com/Smitamane25/Employee-Details-Dashboard/assets/171058471/d303030f-94d3-4818-bb74-a6d3f1e0588e)
 
 - Step 5 : Add pie chart to show sales in different segment and sales through different subcategory.
+  
 ![Screenshot 2024-06-30 154922](https://github.com/Smitamane25/Employee-Details-Dashboard/assets/171058471/6780fef8-432a-433a-a5a9-2a284808106f)
 
 - Step 6 : Add bubble map chart to show sales in different states of US.
