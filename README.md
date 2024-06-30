@@ -34,11 +34,11 @@ This dashboard helps the ecommerce store to understand their sales better. It he
   
 ![Screenshot 2024-06-30 120201](https://github.com/Smitamane25/Employee-Details-Dashboard/assets/171058471/c8481e99-4f3c-4316-a0d8-6075d94dc584)
 
-- Step 7 : Add stacked bar chart to show yearly sale and profit.
+- Step 7 : Add stacked bar chart,then add Year in dimension field before that to show yearly data use calculated field to find years and add sale in metric field to show yearly sale and profit.
   
 ![Screenshot 2024-06-30 120212](https://github.com/Smitamane25/Employee-Details-Dashboard/assets/171058471/ff216319-08c5-4167-9cf8-5aa2af911c31)
            
-- Step 8 : Add bar chart to show sales by shipmode.
+- Step 8 : Add bar chart,then add shipmode in dimension field and sale in metric field to show sales by shipmode.
   
 ![Screenshot 2024-06-30 120222](https://github.com/Smitamane25/Employee-Details-Dashboard/assets/171058471/749e1607-c1b5-4252-a5db-5c879a7adb3b)
  
