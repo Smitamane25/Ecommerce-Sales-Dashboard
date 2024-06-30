@@ -24,7 +24,7 @@ This dashboard helps the ecommerce store to understand their sales better. It he
         Average Order Value = SUM(Sales)/SUM(Quantity)
 - Step 3 :  Controls were added for four fields named "year", "region", "Segment" & "category" to filter out data through different Controls.
 ![Screenshot 2024-06-30 120238](https://github.com/Smitamane25/Employee-Details-Dashboard/assets/171058471/27a3127a-11de-442b-9834-fc18ca2eaa11)
-- Step 4 : Add table with heatmap to show top 10 city name by sale. 
+- Step 4 : Add table with heatmap,add city in dimension and add sale and profit in metric field then add filter of top 10 and sort it in descending order to show top 10 city name by sale. 
 ![Screenshot 2024-06-30 120053](https://github.com/Smitamane25/Employee-Details-Dashboard/assets/171058471/d303030f-94d3-4818-bb74-a6d3f1e0588e)
 
 - Step 5 : Add pie chart to show sales in different segment and sales through different subcategory.
